@@ -72,6 +72,24 @@
     <ClCompile Include="4.2.1StaticFunc2.c">
       <Filter>源文件\chapter7</Filter>
     </ClCompile>
+    <ClCompile Include="5.0StrFunc.cpp">
+      <Filter>源文件\chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2TimeFunc.cpp">
+      <Filter>源文件\chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="6.0BasicToStr.cpp">
+      <Filter>源文件\chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="6.1StrToBasic.cpp">
+      <Filter>源文件\chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncExercise.cpp">
+      <Filter>源文件\chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncExercise2.cpp">
+      <Filter>源文件\chapter7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myfun1.h">

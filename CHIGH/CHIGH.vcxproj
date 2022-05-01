@@ -114,7 +114,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -154,6 +154,12 @@
     <ClCompile Include="4.1staticGlobVar.cpp" />
     <ClCompile Include="4.2.1StaticFunc2.c" />
     <ClCompile Include="4.2staticFunc.c" />
+    <ClCompile Include="5.0StrFunc.cpp" />
+    <ClCompile Include="5.2TimeFunc.cpp" />
+    <ClCompile Include="6.0BasicToStr.cpp" />
+    <ClCompile Include="6.1StrToBasic.cpp" />
+    <ClCompile Include="FuncExercise.cpp" />
+    <ClCompile Include="FuncExercise2.cpp" />
     <ClCompile Include="getsum.cpp" />
     <ClCompile Include="myfun.c" />
     <ClCompile Include="myfunTest.c" />
